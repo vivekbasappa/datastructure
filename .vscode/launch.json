@@ -17,6 +17,48 @@
 			"request": "launch",
 			"mode": "auto",
 			"program": "${fileDirname}/../hash-table/hash-table.go"
+		},
+		{
+			"name": "ReverseLinkedList",
+			"type": "go",
+			"request": "launch",
+			"mode": "auto",
+			"program": "${fileDirname}/../reverse-linked-list/reverse-linked-list.go"
+		},
+		{
+				"name": "lengthOfLongestSubstringKDistinct",
+				"type": "python",
+				"request": "launch",
+				"mode": "auto",
+				"program": "${fileDirname}/../python/lengthOfLongestSubstringKDistinct.py"
+		},
+		{
+			"name": "minesweeper",
+			"type": "python",
+			"request": "launch",
+			"mode": "auto",
+			"program": "/Users/vivreddy/Projects/datastructure/python/minsweep.py"
+		},
+		{
+			"name": "letter-combination-phone-number",
+			"type": "python",
+			"request": "launch",
+			"mode": "auto",
+			"program": "/Users/vivreddy/Projects/datastructure/project/letter-combinations-of-a-phone-number.py"
+		},
+		{
+			"name": "words-search-matrix",
+			"type": "python",
+			"request": "launch",
+			"mode": "auto",
+			"program": "/Users/vivreddy/Projects/datastructure/project/words-search-matrix.py"
+		},
+		{
+			"name": "series",
+			"type": "python",
+			"request": "launch",
+			"mode": "auto",
+			"program": "/Users/vivreddy/Projects/datastructure/project/series.py"
 		}
 	]
 }

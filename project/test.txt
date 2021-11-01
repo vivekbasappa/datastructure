@@ -1,0 +1,17 @@
+	InfoStartStorageSystemToSparePool:   "Adding storage device with serial number %v and address %v to spare pool.",             //event
+		InfoStartStorageSystemToUcp:   "Onboarding storage device with serial number %v and address %v to ucp system %v.",             //event
+			InfoStartRemoveStorageFromUcp:   "Removing storage device with serial number %v and address %v from ucp system %v.",             //event
+				ErrStorageSystemToUcp:         "Unable to onboard storage device with serial number %v and address %v to ucp system %v.",      //event
+					InfoStorageSystemToUcpSuccess: "Successfully onboarded storage device with serial number %v and address %v to ucp system %v.", //eventa
+
+	InfoStartStorageSystemToSparePool:   "Adding storage device with serial number %v and address %v to spare pool.",             //event
+	InfoStorageSystemToSparePoolSuccess: "Successfully added storage device with serial number %v and address %v to spare pool.", //event
+	ErrStorageSystemToSparePool:         "Unable to add storage device with serial number %v and address %v to spare pool.",      //event
+
+	InfoStartStorageSystemToUcp:   "Onboarding storage device with serial number %v and address %v to ucp system %v.",             //event
+	InfoStorageSystemToUcpSuccess: "Successfully onboarded storage device with serial number %v and address %v to ucp system %v.", //event
+	ErrStorageSystemToUcp:         "Unable to onboard storage device with serial number %v and address %v to ucp system %v.",      //event
+
+	InfoStartRemoveStorageFromUcp:   "Removing storage device with serial number %v and address %v from ucp system %v.",             //event
+	InfoRemoveStorageFromUcpSuccess: "Successfully removed storage device with serial number %v and address %v from ucp system %v.", //event
+	ErrRemoveStorageFromUcp:         "Unable to remove storage device with serial number %v and address %v from ucp system %v.",     //event

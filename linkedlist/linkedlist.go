@@ -76,7 +76,7 @@ func NewLinkedList() *LinkedList {
 	return linkedList
 }
 
-func main() {
+func main1() {
 	linkedList := NewLinkedList()	
 	node := NewNode(10)
 	linkedList.Prepend(node)
